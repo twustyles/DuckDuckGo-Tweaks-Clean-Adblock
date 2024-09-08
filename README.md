@@ -13,7 +13,7 @@ Removes ads, promotions, annoyances, and unnecessary elements. Improves visual c
 - Tips
 - Footer
 - Related searches (optional)
-- AI Chat suggestions (optional)
+- AI Chat suggestions (optional, disabled by default)
 - Image dimensions (optional, disabled by default)
 - Other unnecessary elements
 
@@ -23,4 +23,4 @@ Removes ads, promotions, annoyances, and unnecessary elements. Improves visual c
 - Resizes AI Chat icon (optional)
 - Offers a simpler DuckDuckGo logo (optional, disabled by default)
 
-Made for desktop. Not tested with all browsers.
+Made for desktop, also works on mobile. Not tested with all browsers.
