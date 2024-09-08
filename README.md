@@ -1,7 +1,10 @@
-Customizable userstyle that improves DuckDuckGo 🦆
+## Customizable userstyle that improves DuckDuckGo 🦆
 
 Removes ads, promotions, annoyances, and unnecessary elements. Improves visual consistency and comfort.
-# [Install with Stylus via UserStyles.world](https://userstyles.world/style/17992/duckduckgo-tweaks-clean-adblock)
+## [Install with Stylus via UserStyles.world](https://userstyles.world/style/17992/duckduckgo-tweaks-clean-adblock)
+
+<a href="https://userstyles.world/style/17992/duckduckgo-tweaks-clean-adblock">
+<img src="https://img.shields.io/badge/Install%20from-userstyles.world-116b59.svg?longCache=true&style=flat]"></a>
 
 ### Removes:
 - Search result ads
