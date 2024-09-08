@@ -13,14 +13,14 @@ Removes ads, promotions, annoyances, and unnecessary elements. Improves visual c
 - Tips
 - Footer
 - Related searches (optional)
-- AI Chat suggestions (optional, disabled by default)
+- AI Chat suggestions (optional)
 - Image dimensions (optional, disabled by default)
 - Other unnecessary elements
 
 ### Visual changes:
 - Rounds calculator design to match other widgets
 - Rounds some image corners (optional)
-- Resizes AI Chat icon (optional)
+- Resizes AI Chat icon (optional, disabled by default)
 - Offers a simpler DuckDuckGo logo (optional, disabled by default)
 
 Made for desktop, also works on mobile. Not tested with all browsers.
