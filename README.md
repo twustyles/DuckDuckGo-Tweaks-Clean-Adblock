@@ -1,4 +1,7 @@
-Userstyle that improves DuckDuckGo. Removes ads, promotions, annoyances, and unnecessary elements. Improves visual consistency and comfort.
+Customizable userstyle that improves DuckDuckGo 🦆
+
+Removes ads, promotions, annoyances, and unnecessary elements. Improves visual consistency and comfort.
+# [Install with Stylus via UserStyles.world](https://userstyles.world/style/17992/duckduckgo-tweaks-clean-adblock)
 
 ### Removes:
 - Search result ads
