@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           DuckDuckGo Tweaks, Clean, AdBlock
 @namespace      https://userstyles.world/user/twu
-@version        1.0.3
+@version        1.0.4
 @description    Improves DuckDuckGo
 @author         twu
 @preprocessor stylus
@@ -9,7 +9,7 @@
 @var checkbox hideRelatedSearches "Hide related searches" 1
 @var checkbox roundImageCorners "Round image corners" 1
 @var checkbox hideImageDimensions "Hide image dimensions" 0
-@var checkbox resizeAiChatIcon "Resize AI Chat icon" 1
+@var checkbox resizeAiChatIcon "Resize AI Chat icon" 0
 @var checkbox hideAiChatSuggestedPrompts "Hide AI Chat suggestions" 1
 ==/UserStyle== */
 
