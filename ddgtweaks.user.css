@@ -179,6 +179,9 @@
         .header__logo.js-logo-ddg {
             background-image: customLogo !important;
         }
+        .header__logo {
+            background-size: 40px auto;
+        }
     }
     
     if logo == none {
