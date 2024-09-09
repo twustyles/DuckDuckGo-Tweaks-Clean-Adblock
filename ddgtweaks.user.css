@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           DuckDuckGo Tweaks, Clean, AdBlock
 @namespace      https://userstyles.world/user/twu
-@version        1.0.7.1
+@version        1.0.7.2
 @description    Improves DuckDuckGo
 @author         twu
 @preprocessor stylus
@@ -180,7 +180,7 @@
             background-image: customLogo !important;
         }
         .header__logo {
-            background-size: 40px auto;
+            background-size: 40px auto !important;
         }
     }
     
