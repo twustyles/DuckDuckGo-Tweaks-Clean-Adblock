@@ -1,8 +1,8 @@
 /* ==UserStyle==
-@name           DuckDuckGo Tweaks, Clean, AdBlock
+@name           DuckDuckGo Tweaks, Clean, AdBlock 1
 @namespace      https://userstyles.world/user/twu
-@version        1.0.7.3
-@description    Improves DuckDuckGo
+@version        1.0.8
+@description    Improves DuckDuckGo 1
 @author         twu
 @preprocessor stylus
 @var select logo "Logo" ["default:Default", "simple_dark:Simple (dark)", "simple_light:Simple (light)", "custom:Custom", "none:None"]
@@ -21,9 +21,22 @@
     div.footer {
         display: none !important;
     }
-
+    
     /* New feature promo message */
     .header--text_promo {
+        display: none;
+    }
+    
+    /* New feedback buttons */
+    .react-feedback-prompt-mvc-wrapper {
+        display: none;
+    }
+    
+    .ZvcE0ToM7Sfi6iwk7KiJ.wZ4JdaHxSAhGy1HoNVja.AlPVsxUsFt3bnuOvg6hI {
+        display: none;
+    }
+    
+    [data-testid="feedback-prompt"] {
         display: none;
     }
 
@@ -36,6 +49,10 @@
 
     /* "Spread DDG" promo */
     li.L6fj2A3X2mfJl5kE8caF[data-layout="spreadCTA"] {
+        display: none;
+    }
+    
+    .results--sidebar:has(.ia-module--spread-cta) {
         display: none;
     }
 
