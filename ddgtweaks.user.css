@@ -1,8 +1,8 @@
 /* ==UserStyle==
-@name           DuckDuckGo Tweaks, Clean, AdBlock 1
+@name           DuckDuckGo Tweaks, Clean, AdBlock
 @namespace      https://userstyles.world/user/twu
-@version        1.0.8
-@description    Improves DuckDuckGo 1
+@version        1.0.8.1
+@description    Improves DuckDuckGo
 @author         twu
 @preprocessor stylus
 @var select logo "Logo" ["default:Default", "simple_dark:Simple (dark)", "simple_light:Simple (light)", "custom:Custom", "none:None"]
