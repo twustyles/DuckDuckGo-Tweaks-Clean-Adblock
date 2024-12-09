@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           DuckDuckGo Tweaks, Clean, AdBlock
 @namespace      https://userstyles.world/user/twu
-@version        1.0.8.3
+@version        1.0.8.4
 @description    Improves DuckDuckGo
 @author         twu
 @preprocessor stylus
@@ -20,6 +20,11 @@
     /* Footer */
     div.footer {
         display: none !important;
+    }
+
+    /* AdBlock notice */
+    .wbUB0U7KMDyukXtzMd8Y.hoUWqHNnn8Kv_pLhPzPQ:has(img[src="https://metrics-content.duckduckgo.com/assets/adblock-notice/Shield.svg"]) {
+        display: none;
     }
     
     /* Lower feedback prompt */
